@@ -1,3 +1,4 @@
+testcase: cgroup2
 cgroup2:
     memory.high: 90%
     memory.low: 50%
